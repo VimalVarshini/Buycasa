@@ -1,0 +1,113 @@
+.signpic
+{
+    position: absolute;
+    top:5%;
+    left:3%;
+}
+#Allign
+{
+    font-family: 'Times New Roman';
+}
+.fullName
+{
+        position: absolute;
+        top:15%;
+        left:56%;
+}
+.fullName1
+{
+      position:absolute;
+      top:18%;
+      left:68%;
+      border-color: black;
+     height: 2.5%;
+     width: 15%;
+}
+.Email
+{
+   
+    position: absolute;
+    top:27%;
+    left:56%;
+}
+.Email1
+{
+    position:absolute;
+    top:29%;
+    left:68%;
+    border-color: black;
+    height: 2.5%;
+    width: 15%;
+}
+.Username
+{
+    position: absolute;
+    top: 38%;
+    left:56%;
+   
+}
+.username1
+{
+    position: absolute;
+    top:40%;
+    left:68%;
+    border-color: black;
+    height: 2.5%;
+    width: 15%;
+   
+}
+.pwd
+{
+    position: absolute;
+    top:49%;
+    left:56%;
+}
+.pwd1
+{
+    position: absolute;
+    top:51%;
+    left:68%;
+    border-color: black;
+    height: 2.5%;
+    width: 15%;
+}
+.cp{
+    position: absolute;
+    top:60%;
+    left:56%;
+
+}
+.cp1
+{
+    position: absolute;
+    top:62.5%;
+    left:68%;
+    border-color: black;
+    height: 2.5%;
+    width: 15%;
+}
+.signup
+{
+    position: absolute;
+    top:83%;
+    left:66%;
+    cursor: pointer;
+    width: 15%;
+    padding: 8px 8px;
+    font-size: 22px;
+    background-color:rgb(181, 250, 250);
+    
+}
+.cb
+{position: absolute;
+    top:75%;
+    left:60%;
+
+}
+.cb1
+{
+    position: absolute;
+    top:72.5%;
+    left:63%; 
+    
+}

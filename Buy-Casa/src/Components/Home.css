@@ -1,0 +1,173 @@
+.moapp
+{
+    text-align: center;
+    position:absolute;
+    top:10%;
+    left:44.5%;
+    font-size:240%;
+    font-style:inherit;
+    
+}
+.mobg
+{
+    height: 725px;
+    width: 1535px;
+}
+.moquo
+{
+    text-align: center;
+    position:absolute;
+    top:20%;
+    left:42%;
+    font-size:140%;
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.morectangle {
+    display: inline-block;
+    position:absolute;
+    top:90%;
+   
+    background:red
+}
+.moquot
+{
+    
+    text-align: center;
+    position:absolute;
+    top:53%;
+    left:40%;
+    font-size:130%;
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.moimg1
+{
+    position:absolute;
+    top:38%;
+    left:70.5%;
+    cursor: pointer;
+}
+.moimg2
+{
+    position:absolute;
+    top:39%;
+    left: 21.5%;
+    cursor: pointer;
+}
+.mobuy
+{
+    position:absolute;
+    top:45%;
+    left: 23%;
+    color:blue;
+    cursor: pointer;
+}
+.morent{
+
+    position:absolute;
+    top:44%;
+    left:71%;
+    color:blue;
+    cursor: pointer;
+}
+.momenu
+{
+    position:absolute;
+    top:3%;
+    left: 1%;
+    cursor: pointer;
+}
+.monot
+{ 
+    position: absolute;
+    top:4%;
+    right:2%;
+    color:black;
+
+}
+.moHome
+{
+    position:absolute;
+    top:90%;
+    left:4%;
+}
+.mopro
+{
+    position:absolute;
+    top:90%;
+    right:5.2%; 
+    background-color: white;
+}
+.mowish
+{
+    position:absolute;
+    top:90%;
+    left:25%; 
+    background-color: white;
+}
+.mohomeicon
+{
+    position:absolute;
+    top:94%;
+    left:4.5%;
+    font-size:130%;
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.moproficon
+{
+    position:absolute;
+    top:94%;
+    right:5.5%;
+    font-size:130%;
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.mosearch
+{
+    position:absolute;
+    top:90%;
+    left:45.5%;
+}
+.mowishicon
+{
+    position:absolute;
+    top:94%;
+    left:25.5%;
+    font-size:130%;
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.mosearchicon
+{
+    position:absolute;
+    top:94%;
+    left:47%;
+    font-size:130%;
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.moact
+{
+    position:absolute;
+    top:90%;
+    right:24%; 
+    background-color: white;
+}
+.moacticon
+{
+    position:absolute;
+    top:94%;
+    right:24%;
+    font-size:130%;
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.moBot
+{
+    position: absolute;
+    bottom: 0%;
+}

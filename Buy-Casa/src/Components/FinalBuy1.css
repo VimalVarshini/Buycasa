@@ -1,0 +1,258 @@
+.vimHigh
+{
+    position: absolute;
+    top: 4%;
+    left: 5%;
+    font-family: "semiBold italic";
+}
+#vimbg1
+{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 95%;
+    width: 100%;
+}
+#vimbg2
+{
+    position: absolute;
+    top: 95%;
+    left: 0%;
+    height: 90%;
+    width: 100%;
+}
+#vimHouse
+{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    height: 25%;
+    width: 20%;
+}
+#vimoffer
+{
+    position: absolute;
+    top: 18%;
+    right: 15%;
+    height: 25%;
+    width: 20%;
+}
+.vimproperty
+{
+    position: absolute;
+    top: 50.5%;
+    left: 8%;
+    font-size: x-large;
+} 
+.vimproleft
+{
+    font-family: "lato";
+}
+#vimlay
+{
+    position: absolute;
+    top: 63%;
+    left: 10%;
+}
+#vimarea
+{
+    position: absolute;
+    top: 71%;
+    left: 10%;
+}
+#vimfur
+{
+    position: absolute;
+    top: 79%;
+    left: 10%;
+}
+#vimwid
+{
+    position: absolute;
+    top: 87%;
+    left: 10%;
+}
+#vimfloor
+{
+    position: absolute;
+    top: 96%;
+    left: 10%;
+}
+#vimFlooring
+{
+    position: absolute;
+    top: 104%;
+    left: 10%;
+}
+#vimFac
+{
+    position: absolute;
+    top: 112%;
+    left: 10%;
+}
+#vimRental
+{
+    position: absolute;
+    top: 120%;
+    left: 10%;
+}
+#vimNotice
+{
+    position: absolute;
+    top: 130%;
+    left: 10%;
+}
+#vimproid
+{
+    position: absolute;
+    top: 138%;
+    left: 10%;
+}
+.vimvalues
+{
+    font-family: "lato";
+}
+#vimrooms
+{
+    position: absolute;
+    top: 63%;
+    left: 28%;
+}
+#vimid
+{
+    position: absolute;
+    top: 71%;
+    left: 28%;
+}
+#vimfurid
+{
+    position: absolute;
+    top: 79%;
+    left: 28%;
+}
+#vimwidid
+{
+    position: absolute;
+    top: 87%;
+    left: 28%;
+}
+#vimfloorno
+{
+    position: absolute;
+    top: 96%;
+    left: 28%;
+}
+#vimFlooringno
+{
+    position: absolute;
+    top: 104%;
+    left: 28%;
+}
+#vimFacno
+{
+    position: absolute;
+    top: 112%;
+    left: 28%;
+}
+#vimRentalno
+{
+    position: absolute;
+    top: 121.5%;
+    left: 28%;
+}
+#vimNoticeno
+{
+    position: absolute;
+    top: 130%;
+    left: 28%;
+}
+#vimproperid
+{
+    position: absolute;
+    top: 138%;
+    left: 28%;
+}
+.vimquote
+{
+    position: absolute;
+    top: 55%;
+    left: 63%;
+    font-family: "semi bold italic";
+}
+#vimrentimg
+{
+    position: absolute;
+    top: 103%;
+    left: 61%;
+    height: 25%;
+    width: 20%;
+}
+#vimkitchen
+{
+    position: absolute;
+    top: 155%;
+    left: 5%;
+    height: 20%;
+    width: 20%;
+}
+#vimkitname
+{
+    position: absolute;
+    top: 177%;
+    left: 12%;
+    font-family: "times new roman";
+}
+#vimbedroom
+{
+    position: absolute;
+    top: 155%;
+    left: 30%;
+    height: 20%;
+    width: 20%;
+}
+#vimbedname
+{
+    position: absolute;
+    top: 177%;
+    left: 37%;
+    font-family: "times new roman";
+}
+#vimHall
+{
+    position: absolute;
+    top: 155%;
+    left: 55%;
+    height: 20%;
+    width: 20%;
+}
+#vimhallname
+{
+    position: absolute;
+    top: 177%;
+    left: 62%;
+    font-family: "times new roman";
+}
+#vimbathroom
+{
+    position: absolute;
+    top: 155%;
+    left: 79.5%;
+    height: 20%;
+    width: 20%;
+}
+#vimbathname
+{
+    position: absolute;
+    top: 177%;
+    left: 87%;
+    font-family: "times new roman";
+}
+.varFinalrent1close-button{
+    position: absolute;
+    top: 6%;
+    right: 5%;
+    font-size: 100%;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+    cursor: pointer;
+}

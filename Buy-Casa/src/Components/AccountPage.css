@@ -1,0 +1,144 @@
+#varisu_img
+{
+    position: absolute;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+}
+#varisu_logo
+{
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    height: 7%;
+    width: 5%;
+}
+.varisu_title
+{
+    position: absolute;
+    top: 3%;
+    left: 29%;
+    font-family: "semibold italic";
+}
+.varisu_det1{
+    position: absolute;
+    top: 20%;
+    left: 41%;
+    line-height: 30px;
+    font-family: lato;
+    font-size: 100%;
+}#var1{
+    position: absolute;
+    top: 30%;
+    left: 41%;
+    line-height: 30px;
+    font-family: lato;
+    background-color: lightgrey;
+    height: 2%;
+    width: 15%;
+}
+.varisu_det2{
+    position: absolute;
+    top: 20%;
+    left: 65%;
+    line-height: 30px;
+    font-family: lato;
+    font-size: 100%;
+}#var2{
+    position: absolute;
+    top: 30%;
+    left: 65%;
+    line-height: 30px;
+    font-family: lato;
+    background-color: lightgray;
+    height: 2%;
+    width: 15%;
+}
+.varisu_det3{
+    position: absolute;
+    top: 35%;
+    left: 65%;
+    line-height: 30px;
+    font-family: lato;
+    font-size: 100%;
+}#var3{
+    position: absolute;
+    top: 45%;
+    left: 65%;
+    line-height: 30px;
+    font-family: lato;
+    background-color: lightgray;
+    height: 2%;
+    width: 15%;
+}
+.varisu_det4{
+    position: absolute;
+    top: 35%;
+    left: 41%;
+    line-height: 30px;
+    font-family: lato;
+    font-size: 100%;
+}#var4{
+    position: absolute;
+    top: 45%;
+    left: 41%;
+    line-height: 30px;
+    font-family: lato;
+    background-color: lightgrey;
+    height: 2%;
+    width: 15%;
+}
+.varisu_det5{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    line-height: 30px;
+    font-family: lato;
+    font-size: 100%;
+}#var5{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    line-height: 30px;
+    font-family: lato;
+    background-color: lightgrey;
+    height: 2%;
+    width: 25%;
+}
+.varisu_det6{
+    position: absolute;
+    top: 62%;
+    left: 45%;
+    line-height: 30px;
+    font-family: lato;
+    font-size: 100%;
+}#var6{
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    line-height: 30px;
+    font-family: lato;
+    background-color: lightgrey;
+    height: 6%;
+    width: 25%;
+}
+#varisu_update{
+    position: absolute;
+    top: 81%;
+    left: 48%;
+    font-family: lato;
+    color: black;
+    cursor: pointer;
+    height: 4%;
+    width: auto;
+}
+#varisu_signout{
+    position: absolute;
+    top: 81%;
+    left: 60%;
+    font-family: lato;
+    color: black;
+    cursor: pointer;
+    height: 4%;
+    width: auto;
+}

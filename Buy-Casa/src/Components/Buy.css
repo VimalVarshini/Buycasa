@@ -1,0 +1,179 @@
+.samHeader {
+    position: absolute;
+    top: 1%;
+    left: 4%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+.samButton
+{
+    position: absolute;
+    top: 1%;
+    right: 13%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+    cursor: pointer;
+}
+.samTitle{
+    position: absolute;
+    font-style: italic;
+    font-size: 20px;
+    top: 20%;
+    left: 4%;
+}
+#sam1
+{
+    position: absolute;
+    top:33%;
+    Left:4%;
+    width: 17%;
+    height: 20%;
+}
+#sam2
+{
+    position: absolute;
+    top:33%;
+    Left:23%;
+    width: 17%;
+    height: 20%;
+}
+#sam3
+{
+    position: absolute;
+    top:33%;
+    Left:42%;
+    width:17% ;
+    height:20%;
+}
+#sam4
+{
+    position: absolute;
+    top:33%;
+    Left:61%;
+    width:17% ;
+    height:20%;
+}
+#sam5
+{
+    position: absolute;
+    top:33%;
+    Left:80%;
+    width:17% ;
+    height:20%;
+}
+.sam6
+{
+    position: absolute;
+    top:68%;
+    bottom: auto;
+    Left:20%;
+    
+}
+.sam7
+{
+    position: absolute;
+    top:68%;
+    bottom: auto;
+    Left:55%;
+    
+}
+.sam8
+{
+    position: absolute;
+    top:120%;
+    bottom: auto;
+    Left:55%;
+    
+}
+.sam9
+{
+    position: absolute;
+    top:120%;
+    bottom: auto;
+    Left:20%;
+    
+}
+#samWish1{
+    position: absolute;
+    top:68%;
+    left: 36.3%;
+}
+#samWish2{
+    position: absolute;
+    top:68%;
+    left: 71.3%;
+}
+#samWish3{
+    position: absolute;
+    top:120%;
+    left: 71.3%;
+}
+#samWish4{
+    position: absolute;
+    top:120%;
+    left: 36.3%;
+}
+.samBell{
+    position: absolute;
+    top:3.6%;
+    right: 7%;
+
+}
+#samDetail1{
+    position: absolute;
+    top: 95%;
+    left: 26.5%;
+}
+#samDetail2{
+    position: absolute;
+    top: 98%;
+    left: 24.5%;
+}
+#samDetail3{
+    position: absolute;
+    top: 95%;
+    left: 61%;
+}
+#samDetail4{
+    position: absolute;
+    top: 98%;
+    left: 58%;
+}
+#samDetail5{
+    position: absolute;
+    top: 147%;
+    left: 61%;
+}
+#samDetail6{
+    position: absolute;
+    top: 150%;
+    left: 58%;
+}
+#samDetail7{
+    position: absolute;
+    top: 147%;
+    left: 27%;
+}
+#samDetail8{
+    position: absolute;
+    top: 150%;
+    left: 24%;
+}
+#samSearch{
+    position: absolute;
+    top: 15%;
+    left: 4%;
+    width: 25%;
+}
+.samclose-button{
+    position: absolute;
+    top: 4.5%;
+    right: 3%;
+    font-size: 100%;
+    background-color: rgb(185, 223, 238);
+    border-color: aliceblue;
+    cursor: pointer;
+}

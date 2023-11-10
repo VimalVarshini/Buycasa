@@ -1,0 +1,87 @@
+.prilogo
+{
+    position: absolute;
+    top:9%;
+    left:40.5%;
+    height:19%;
+    width:15%;
+}
+.priapp
+{
+    position: absolute;
+    top:29%;
+    left:43.5%;
+    font-size:200%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.prilogin
+{
+    position: absolute;
+    top:40%;
+    left:44%;
+    height:11%;
+    width:8%;
+}
+.pribox
+{
+    border-color: black;
+}
+.pripwd
+{
+     position: absolute;
+     top:62.5%;
+     left:49%;
+   border-color: black;
+}
+.pripsd
+{
+    position: absolute;
+    top:60%;
+    left:40.5%;
+}
+.priph
+{
+    position: absolute;
+    top:53%;
+    left:39%;
+}
+.priphone
+{
+    position: absolute;
+    top:56%;
+    left:49%;
+  border-color: black;
+}
+.pricont
+{
+    position: absolute;
+    top:67%;
+    left:47%;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+.priforgot
+{
+    position: absolute;
+    top:73.5%;
+    left:44.5%;
+    color: crimson;
+    cursor: pointer;
+}
+.prinew
+{
+    position: absolute;
+    top:81%;
+    left:40%;
+}
+.prisign
+{
+    position: absolute;
+    top:81%;
+    left:51.5%;
+    color:rgb(6, 174, 174);
+    cursor: pointer;
+}
